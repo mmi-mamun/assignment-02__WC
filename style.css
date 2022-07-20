@@ -29,27 +29,6 @@ header {
     margin-bottom: 50px;
 }
 
-/* .banner {
-    background-color: black;
-    color: white;
-    border-radius: 20px;
-
-    padding: 40px 60px;
-
-    display: flex;
-} */
-
-/* .banner {
-    background-color: black;
-    color: white;
-    border-radius: 20px;
-
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-
-    padding: 40px 60px;
-} */
-
 /*----------------------------------
 ------- Banner Design --------------
 ------------------------------------ */
@@ -106,13 +85,7 @@ header {
     border-radius: 10px;
 }
 
-/* .container {
-    display: grid;
-    grid-template-columns: 312px, repeat(1, 1fr);
-} */
-.container {
-    /* margin: 0 25px; */
-}
+
 
 .aside {
     width: 312px;
@@ -129,7 +102,6 @@ header {
 .box {
     height: 252px;
     width: 100%;
-    /* margin: 30px; */
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     padding: 0px 20px;
@@ -180,12 +152,6 @@ header {
     border-radius: 12px;
 }
 
-.blog-image {
-    /* Width: 312px;
-    Height: 175px; */
-    /* margin-bottom: 20px; */
-}
-
 .blog-image img {
     width: 100%;
 }
@@ -194,7 +160,6 @@ header {
     padding: 16px;
 }
 
-.blog-title {}
 
 .blog-title>a {
     /* Width: 100px;
@@ -249,11 +214,7 @@ header {
     padding: 30px 15px;
 }
 
-.individual {
-    /* Width: 252px;
-    Height: 137px;
-    margin: 53px 30px; */
-}
+
 
 .match-banner {
     display: flex;
